@@ -1,8 +1,5 @@
 /node_modules/
-/user.js/
-user.js/
-/user/
-user/
+user.js
 
 
 .vscode/*
